@@ -1,4 +1,4 @@
-# <p align="center">Bulk Docx Translator</p>
+<h1><p align="center">Bulk Docx Translator</p></h1>
 
 ## Basic Usage
 
@@ -24,12 +24,15 @@ pip install -r requirements.txt
 
 ## Requirements
 
+1) Pandoc
 Visit `https://pandoc.org/installing.html` and download the installer for windows. 
+or `choco install pandoc` with elevated an elevated console so PATH is written. 
 
-or 
+2) Create or log in to GCP and create a project for [Goolge Translate Services](https://console.cloud.google.com/apis/library/translate.googleapis.com) 
 
-`choco install pandoc` with elevated an elevated console so PATH is written. 
+3) Add the API to the project
 
+4) Add the project ID to your .env as `GOOGLE_PROJECT_ID`
 
 ## Running the translator
 ```
