@@ -1,0 +1,6 @@
+# Distribution / packaging
+.Python
+/venv
+/.vscode
+.env
+app/__pycache__
