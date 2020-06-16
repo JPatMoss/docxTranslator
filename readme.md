@@ -2,10 +2,14 @@
 
 Bulk translator for docx files using the google translator service.
 
-## Installation
+## Requirements
 
 Visit `https://pandoc.org/installing.html` and download the installer for windows. 
 
 or 
 
 `choco install pandoc` from a console with administrator privalges. 
+
+
+
+Work in progress

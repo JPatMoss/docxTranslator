@@ -18,6 +18,6 @@ for path, subdirs, files in os.walk("app/docsToTranslate/"):
 for file in docsToTranslate:
     XTranslator('docsToTranslate/'+file,"docsToTranslate/translatedDocs/TRANSLATED_"+file)
 
-
+#Todo fix path for translation input and output relative to translator.py
 
 
