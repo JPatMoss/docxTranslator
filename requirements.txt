@@ -38,7 +38,7 @@ Pyphen==0.9.5
 python-dotenv==0.13.0
 pytz==2020.1
 requests==2.23.0
-rsa==4.0
+rsa==4.7
 six==1.15.0
 tinycss2==1.0.2
 toml==0.10.1
