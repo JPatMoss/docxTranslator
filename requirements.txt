@@ -20,7 +20,7 @@ idna==2.9
 isort==4.3.21
 lazy-object-proxy==1.4.3
 mammoth==1.4.10
-markdown2==2.3.9
+markdown2==2.4.0
 Markdown2PDF==0.1.4
 mccabe==0.6.1
 pandoc==2.0a4
