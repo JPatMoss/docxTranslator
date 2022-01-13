@@ -24,7 +24,7 @@ markdown2==2.3.9
 Markdown2PDF==0.1.4
 mccabe==0.6.1
 pandoc==2.0a4
-Pillow==7.1.2
+Pillow==9.0.0
 plumbum==1.6.9
 ply==3.11
 protobuf==3.12.2
