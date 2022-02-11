@@ -27,7 +27,7 @@ pandoc==2.0a4
 Pillow==7.1.2
 plumbum==1.6.9
 ply==3.11
-protobuf==3.12.2
+protobuf==3.15.0
 pyandoc==0.2.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
